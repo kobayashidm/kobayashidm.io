@@ -1,0 +1,22 @@
+*{
+
+    display:flex;   
+    flex-direction:column;
+    caret-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-justify: inter-word;
+}
+title{
+    display: none;
+}
+section{
+    width: min(50vw, 1200px);
+}
+body{
+    display: flex;
+    margin: 0 auto;
+}
+main{
+    display: flex;
+}
