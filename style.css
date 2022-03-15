@@ -6,9 +6,13 @@
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     text-justify: inter-word;
+
 }
 title{
     display: none;
+
+        text-align: center;
+
 }
 section{
     width: min(50vw, 1200px);
@@ -28,9 +32,41 @@ img {
     margin-right: auto;
     border-radius: 50%; 
    }
-   #intro{
-    width: 1000px;
-    height: 100px;
-    border: 2px solid #c3c3c3;
-    display: flex;
+
+   #sobre{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+   }
+   #formacao{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+   #experiencia{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   }
+   h1.nome{
+    text-align: center;
    }
